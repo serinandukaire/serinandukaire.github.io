@@ -17,7 +17,7 @@ const media = {
     cssBattle: "elias_dev",
     codepen: "elias_dev",
     dribble: "Elias_dev",
-    email: "elias.devis@protonmail.com"
+    email: "serinadera@gmail.com"
 
 }
 
