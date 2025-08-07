@@ -2,6 +2,8 @@ export default {
     ts: "TypeScript",
     js: "JavaScript",
     python: "Python",
+    cc: "C++",
+    c: "C#",
     sqlite: "SQLite",
     mongo: "MongoDB",
     postgreSql: "PostgreSQL",
@@ -33,4 +35,11 @@ export default {
     deno: "Deno",
     pixijs: "PixiJS",
     preact: "Preact",
+    pygame: "Pygame",
+    unity: "Unity",
+    godot: "Godot",
+    unrealengine: "Unreal Engine",
+    canva: "Canva",
+    blender: "Blender",
+
 }

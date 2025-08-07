@@ -14,8 +14,9 @@
         "language": "Languages",
         "database": "Databases",
         "other": "Other",
+        "soft": "Soft Skills",
         "tool": "Tools",
-        "framework": "Frameworks"
+        "framework": "Frameworks & Libararies"
     },
     "projects": {
         "chertnodes": {
