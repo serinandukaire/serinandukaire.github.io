@@ -2,8 +2,8 @@ import media from "@/consts/media";
 
 const contacts = [
     {
-        name: "discord",
-        text: media.discordTag,
+        name: "linkedin",
+        text: media.linkedin,
     },
     {
         name: "email",

@@ -5,7 +5,7 @@ export default {
     get(target, name) {
         if (name === "emailRaw") 
             return target.email
-        
+        if (name === "linkedin") return 'https://' + websites.linkedin + target.linkedin
         if (name === "discord") return `https://${websites.discord}${target.discord.id}`
         if (name === "discordTag") return target.discord.tag
 

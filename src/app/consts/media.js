@@ -9,6 +9,7 @@ const media = {
         id: "19758208",
         name: "elias",
     },
+    linkedin: "serina-ndukaire",
     github: "EliasDevis",
     figma: "elias_dev",
     replit: "EliasDev",

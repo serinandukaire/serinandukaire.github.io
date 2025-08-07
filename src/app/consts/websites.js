@@ -1,5 +1,6 @@
 export default {
     discord: "discord.com/users/",
+    linkedin: "linkedin.com/in/",
     github: "github.com/",
     figma: "figma.com/@",
     replit: "replit.com/@",
