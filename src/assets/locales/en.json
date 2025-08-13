@@ -77,7 +77,7 @@
             "hero": {
                 "title": "Hi, I'm Serina, a <span>creative coder</span> and <span>developer</span> ",
                 "description": "I build interactive experiences with code, design and creativity!",
-                "button": "Contact ME",
+                "button": "Contact Me",
                 "status": "Open for new opportunities"
             },
             "quote": {
@@ -111,13 +111,13 @@
             }
         },
         "projects": {
-            "description": "All of my projects",
-            "decent": "decent",
+            "description": "My projects",
+            "decent": "large",
             "small": "small",
             "inProgress": "unfinished"
         },
         "about": {
-            "description": "Who am i",
+            "description": "Profile",
             "about": {
                 "description": [
                     "Hi, I'm Serina! ",

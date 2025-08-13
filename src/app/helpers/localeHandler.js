@@ -6,7 +6,7 @@ function setLocaleHander() {
     const label = document.querySelector(".dropdown__label");
 
     options.forEach((option) => {
-        if (option.innerHTML === localStorage.locale) 
+        if (option.innerHTML === localStorage.locale)
             [label.innerHTML, option.innerHTML] = [localStorage.locale, label.innerHTML]
 
         option.addEventListener("click", () => {
@@ -23,5 +23,5 @@ async function getLocale() {
     return fetch(`/locales/${locale}.json`).then(res => res.json())
 }
 
-export default setLocaleHander;
+//export default setLocaleHander;
 export { getLocale }

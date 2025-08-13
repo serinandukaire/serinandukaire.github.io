@@ -41,5 +41,6 @@ export default {
     unrealengine: "Unreal Engine",
     canva: "Canva",
     blender: "Blender",
+    github: "GitHub",
 
 }
