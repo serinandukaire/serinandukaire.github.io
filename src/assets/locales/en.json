@@ -64,9 +64,9 @@
             "name": "Feedrum",
             "description": "Ukrainian social network designed for programmers"
         },
-        "deplos": {
-            "name": "Deplos",
-            "description": "Game servers hosting"
+        "galactic": {
+            "name": "Galactic Invaders",
+            "description": "Arcade style space shooter game"
         },
         "pixel-battle": {
             "name": "Pixel Battle",

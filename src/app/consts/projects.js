@@ -3,13 +3,12 @@
  */
 const projects = [
     {
-        id: "deplos",
+        id: "galactic",
         links: {
-            figma: "1198393124994627983",
-            live: "deplos.github.io",
-            github: "Deplos/deplos.github.io"
+            live: "https://btecoreo.itch.io/galactic-invaders",
+            github: "serinandukaire/Galactic-Invaders"
         },
-        techs: ["pug", "stylus", "node"],
+        techs: ["node", "html", "css", "sqlite"],
         hasImage: true,
     },
     {
