@@ -93,7 +93,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__),\n/* harmony export */   getLocale: () => (/* binding */ getLocale)\n/* harmony export */ });\nconst defaultLocale = \"en\"\n\n\nfunction setLocaleHander() {\n    const options = document.querySelectorAll(\".dropdown__option\");\n    const label = document.querySelector(\".dropdown__label\");\n\n    options.forEach((option) => {\n        if (option.innerHTML === localStorage.locale) \n            [label.innerHTML, option.innerHTML] = [localStorage.locale, label.innerHTML]\n\n        option.addEventListener(\"click\", () => {\n            localStorage.locale = option.innerHTML;\n\n            window.location.reload();\n        });\n    });\n}\n\nasync function getLocale() {\n    const locale = localStorage.locale ?? defaultLocale\n\n    return fetch(`/locales/${locale}.json`).then(res => res.json())\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (setLocaleHander);\n\n\n\n//# sourceURL=webpack://portfolio/./src/app/helpers/localeHandler.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   getLocale: () => (/* binding */ getLocale)\n/* harmony export */ });\nconst defaultLocale = \"en\"\n\n\nfunction setLocaleHander() {\n    const options = document.querySelectorAll(\".dropdown__option\");\n    const label = document.querySelector(\".dropdown__label\");\n\n    options.forEach((option) => {\n        if (option.innerHTML === localStorage.locale)\n            [label.innerHTML, option.innerHTML] = [localStorage.locale, label.innerHTML]\n\n        option.addEventListener(\"click\", () => {\n            localStorage.locale = option.innerHTML;\n\n            window.location.reload();\n        });\n    });\n}\n\nasync function getLocale() {\n    const locale = localStorage.locale ?? defaultLocale\n\n    return fetch(`/locales/${locale}.json`).then(res => res.json())\n}\n\n//export default setLocaleHander;\n\n\n\n//# sourceURL=webpack://portfolio/./src/app/helpers/localeHandler.js?\n}");
 
 /***/ }),
 
@@ -233,7 +233,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-ext
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "js/" + {"src_app_views_About_js":"26a52670fb7289f43a92","src_app_views_Contacts_js":"560ef71063b129da344c","src_app_views_Home_js":"f85418e82fd27a008350","src_app_views_PageNotFound_js":"889f973003c86d2b46df","src_app_views_Projects_js":"76bfa2a0c7fcbe5da953"}[chunkId] + ".js";
+/******/ 			return "js/" + {"src_app_views_About_js":"d2870b2db73104bdfe8a","src_app_views_Contacts_js":"560ef71063b129da344c","src_app_views_Home_js":"87a410406c8312ee0745","src_app_views_PageNotFound_js":"889f973003c86d2b46df","src_app_views_Projects_js":"aae017a4583970f3d7ab"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
