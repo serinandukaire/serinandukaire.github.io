@@ -23,5 +23,5 @@ async function getLocale() {
     return fetch(`/locales/${locale}.json`).then(res => res.json())
 }
 
-//export default setLocaleHander;
+export default setLocaleHander;
 export { getLocale }
