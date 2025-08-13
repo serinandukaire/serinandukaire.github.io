@@ -5,7 +5,7 @@ const projects = [
     {
         id: "galactic",
         links: {
-            live: "https://btecoreo.itch.io/galactic-invaders",
+            live: "btecoreo.itch.io/galactic-invaders",
             github: "serinandukaire/Galactic-Invaders"
         },
         techs: ["node", "html", "css", "sqlite"],
