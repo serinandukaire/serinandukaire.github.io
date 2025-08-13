@@ -5,8 +5,14 @@ import media from "@/consts/media";
 
 function mapLinks(links) {
     function map(link) {
-        let href =
-        "https://" + (link === "live" ? "" : websites[link]) + links[link];
+         let href = links[link];
+
+        // Only prepend if not already a full URL
+        if (link === "live" && !/^https?:\/\//.test(links[link])) {
+            href = "https://" + links[link];
+        } else if (link !== "live") {
+            href = "https://" + websites[link] + links[link];
+        }
 
         if (link === "figma") href = `https://figma.com/community/file/${links[link]}`
         if (link === "github" && links[link].startsWith("/")) href = media.github + links[link]
@@ -15,7 +21,7 @@ function mapLinks(links) {
         const className = link === "cached" ? "button__secondary" : "";
         const name = `${link[0].toUpperCase()}${link.slice(1)}`;
 
-        return /*html*/ `<a href="${href}" class="button ${className}">${name} =></a>`;
+        return /*html*/ `<a href="${href}" class="button ${className}" target="_blank" rel="noopener noreferrer">${name} =&gt;</a>`;
     }
 
     return Object.keys(links).map(map).join("");
