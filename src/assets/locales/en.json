@@ -46,7 +46,7 @@
         },
         "speedtyp": {
             "name": "Speed Typing Test",
-            "description": "Tests typying speed using list of words"
+            "description": "Tests typing speed using list of words"
         },
         "chesspro": {
             "name": "Chess PRO",
