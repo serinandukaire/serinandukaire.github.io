@@ -42,5 +42,6 @@ export default {
     canva: "Canva",
     blender: "Blender",
     github: "GitHub",
+    tk: "Tkinter",
 
 }

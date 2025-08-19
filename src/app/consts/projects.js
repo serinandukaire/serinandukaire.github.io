@@ -75,10 +75,10 @@ const projects = [
     },
 
     {
-        id: "discordbot",
-        techs: ["ts", "discordJs", "node"],
+        id: "speedtyp",
+        techs: ["python", "tk", "node"],
         links: {
-            github: "/bot-template",
+            github: "serinandukaire/speed-typing-test",
         },
         isSmall: true,
     },
