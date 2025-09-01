@@ -7,8 +7,8 @@ Theme inspired by elias.dev
 
 ## TODO ##
 - [ ] Add all projects 
-- [ ] Page contacts
-- [ ] Blog (potential)
+- [ ] New icon
 - [ ] Animation
 - [ ] Improve images
 - [ ] Delete unused code
+- [ ] Blog (potential)
