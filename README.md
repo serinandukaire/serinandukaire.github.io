@@ -1,15 +1,14 @@
 # My Portfolio #
 Written in vanilla js.
 
-If you have any questions you can message me on discord **elias.dev.**
-*PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  
-
-**FIGMA**: https://www.figma.com/community/file/1164933568884615740  
+Theme inspired by elias.dev
+  
 **LIVE**: [serinandukaire.github.io](https://serinandukaire.github.io/)
 
 ## TODO ##
+- [ ] Add all projects 
 - [ ] Page contacts
-- [ ] Blog maybe
+- [ ] Blog (potential)
 - [ ] Animation
 - [ ] Improve images
 - [ ] Delete unused code
