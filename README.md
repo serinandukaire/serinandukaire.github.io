@@ -5,7 +5,7 @@ Theme inspired by elias.dev
   
 **LIVE**: [serinandukaire.github.io](https://serinandukaire.github.io/)
 
-## TODO ##
+## TO DO ##
 - [ ] Add all projects 
 - [ ] New icon
 - [ ] Animation
