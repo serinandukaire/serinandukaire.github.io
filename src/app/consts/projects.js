@@ -21,12 +21,12 @@ const projects = [
         hasImage: true
     },
     {
-        id: "feedrum",
+        id: "portfolio",
+        techs: ["js", "sass", "webpack"],
         links: {
-            github: "Feedrum-Project/feedrum-next",
-            figma: "1314605686829534158"
+            github: "/serinandukaire.github.io",
+            live: "serinandukaire.github.io"
         },
-        techs: ["node", "next", "react", "zod"],
         hasImage: true,
     },
     {
@@ -63,17 +63,6 @@ const projects = [
         },
         hasImage: true,
     },
-    {
-        id: "portfolio",
-        techs: ["js", "sass", "webpack"],
-        links: {
-            figma: "1164933568884615740",
-            github: "/serinandukaire.github.io",
-            live: "serinandukaire.github.io"
-        },
-        hasImage: true,
-    },
-
     {
         id: "speedtyp",
         techs: ["python", "tk", "node"],
