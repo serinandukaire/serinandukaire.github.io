@@ -64,9 +64,9 @@
             "name": "Galactic Invaders",
             "description": "Arcade style space shooter game"
         },
-        "pixel-battle": {
-            "name": "Pixel Battle",
-            "description": "Pixel art battle game"
+         "jump-platformer": {
+            "name": "Jump Platformer",
+            "description": "Jump and run vertical platformer game"
         }
     },
     "pages": {
