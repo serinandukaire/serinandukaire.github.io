@@ -12,12 +12,12 @@ const projects = [
         hasImage: true,
     },
     {
-        id: "pixel-battle",
+        id: "jump-platformer",
         links: {
-            live: "pixelbattle.fun",
-            github: "pixelate-it/pixelbattle-frontend",
+           // live: "pixelbattle.fun",
+            github: "serinandukaire/Jump-Platform-Game",
         },
-        techs: ["preact", "css", "pixijs", "ts"],
+        techs: ["unity", "c", "vscode"],
         hasImage: true
     },
     {
