@@ -40,6 +40,34 @@
             "name": "TamaPlushy",
             "description": "2D Pet-Simulator Game, take care of your plushy so it doesn't lose its sanity!"
         }
+        "chertnodes": {
+            "name": "ChertNodes",
+            "description": "Minecraft servers hosting"
+        },
+        "protectx": {
+            "name": "ProtectX web",
+            "description": "Discord anti-crash bot"
+        },
+        "khanswers": {
+            "name": "Kahoot Answers",
+            "description": "Get answers from kahoot quiz"
+        },
+        "kotikbot": {
+            "name": "KotikBot",
+            "description": "Landing for multi-functional cute discord bot"
+        },
+        "chesspro": {
+            "name": "Chess PRO",
+            "description": "Landing page about service for viewing chess tournaments"
+        },
+        "ooku": {
+            "name": "Ooku",
+            "description": "Link shortener with discord auth"
+        },
+        "madhost": {
+            "name": "MadHost",
+            "description": "Minecraft and websites hosting with low prices"
+        }
     },
     "pages": {
         "home": {
