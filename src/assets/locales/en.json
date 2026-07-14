@@ -20,22 +20,6 @@
         "framework": "Frameworks & Libararies"
     },
     "projects": {
-        "chertnodes": {
-            "name": "ChertNodes",
-            "description": "Minecraft servers hosting"
-        },
-        "protectx": {
-            "name": "ProtectX web",
-            "description": "Discord anti-crash bot"
-        },
-        "khanswers": {
-            "name": "Kahoot Answers",
-            "description": "Get answers from kahoot quiz"
-        },
-        "kotikbot": {
-            "name": "KotikBot",
-            "description": "Landing for multi-functional cute discord bot"
-        },
         "portfolio": {
             "name": "This Portfolio",
             "description": "My personal portfolio"
@@ -48,25 +32,13 @@
             "name": "Speed Typing Test",
             "description": "Tests typing speed using list of words"
         },
-        "chesspro": {
-            "name": "Chess PRO",
-            "description": "Landing page about service for viewing chess tournaments"
-        },
-        "ooku": {
-            "name": "Ooku",
-            "description": "Link shortener with discord auth"
-        },
-        "madhost": {
-            "name": "MadHost",
-            "description": "Minecraft and websites hosting with low prices"
-        },
         "galactic": {
             "name": "Galactic Invaders",
             "description": "Arcade style space shooter game"
         },
-         "jump-platformer": {
-            "name": "Jump Platformer",
-            "description": "Jump and run vertical platformer game"
+         "tamaplushy": {
+            "name": "TamaPlushy",
+            "description": "2D Pet-Simulator Game, take care of your plushy so it doesn't lose its sanity!"
         }
     },
     "pages": {
