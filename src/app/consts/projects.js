@@ -15,6 +15,7 @@ const projects = [
         id: "tamaplushy",
         links: {
             github: "serinandukaire/TamaPlushy-Game",
+            live: "https://btecoreo.itch.io/tamaplushy"
         },
         techs: ["unity", "c", "vscode"],
         hasImage: true
