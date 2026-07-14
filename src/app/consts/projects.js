@@ -14,7 +14,6 @@ const projects = [
     {
         id: "jump-platformer",
         links: {
-           // live: "pixelbattle.fun",
             github: "serinandukaire/Jump-Platform-Game",
         },
         techs: ["unity", "c", "vscode"],
@@ -30,12 +29,12 @@ const projects = [
         hasImage: true,
     },
     {
-        id: "chertnodes",
+        id: "tamaplushy",
         links: {
-            figma: "1149829028455305659",
+            github: "serinandukaire/TamaPlushy-Game",
         },
-        techs: ["python", "flask", "scss"],
-        hasImage: true,
+        techs: ["unity", "c", "vscode"],
+        hasImage: true
     },
     {
         id: "protectx",
