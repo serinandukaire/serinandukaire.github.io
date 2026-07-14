@@ -22,7 +22,7 @@ jobs:
           node-version: 20
           cache: yarn
 
-      - name: Remove npm lockfile (Yarn-only project)
+      - name: Remove npm lockfile
         run: rm -f package-lock.json
 
       - name: Install dependencies
