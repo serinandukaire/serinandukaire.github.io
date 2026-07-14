@@ -37,6 +37,56 @@ const projects = [
         },
         isSmall: true,
     },
+    {
+        id: "protectx",
+        techs: ["react", "node", "discordJs"],
+        links: {
+            figma: "1168662007492356291",
+        },
+        hasImage: true,
+    },
+    {
+        id: "khanswers",
+        techs: ["express", "node", "ejs"],
+        links: {
+            live: "khanswers.vercel.app",
+            github: "/kahoot-answers",
+        },
+        hasImage: true,
+    },
+    {
+        id: "kotikbot",
+        techs: ["html", "css", "js"],
+        links: {
+            live: "kotikbot.github.io",
+            github: "kotikbot/kotikbot.github.io",
+        },
+        hasImage: true,
+    },
+    {
+        id: "speedtyp",
+        techs: ["python", "tk", "node"],
+        links: {
+            github: "serinandukaire/speed-typing-test",
+        },
+        isSmall: true,
+    },
+    {
+        id: "chesspro",
+        techs: ["figma"],
+        links: {
+            figma: "1148344443083977909",
+        },
+        isSmall: true,
+    },
+    {
+        id: "madhost",
+        techs: ["pug", "less", "gulp", "node"],
+        links: {
+            live: "madhost.pw",
+        },
+        hasImage: true,
+    },
 ];
 
 export default projects;
