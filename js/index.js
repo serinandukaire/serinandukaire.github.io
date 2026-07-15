@@ -254,7 +254,7 @@ eval("{const map = {\n\t\"./About\": [\n\t\t\"./src/app/views/About.js\",\n\t\t[
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "js/" + {"src_app_views_About_js":"9ba38041fa5a7a1603d5","src_app_views_Contacts_js":"177e3005bf2fc6e2336b","src_app_views_Home_js":"10ca4ee429582df81e8a","src_app_views_PageNotFound_js":"b31a3eecb333fdeef639","src_app_views_Projects_js":"5c23f403f0d5a6db8445"}[chunkId] + ".js";
+/******/ 			return "js/" + {"src_app_views_About_js":"9ba38041fa5a7a1603d5","src_app_views_Contacts_js":"177e3005bf2fc6e2336b","src_app_views_Home_js":"83cf431236cc99a55dba","src_app_views_PageNotFound_js":"b31a3eecb333fdeef639","src_app_views_Projects_js":"6818b01c1748e8a596ac"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
