@@ -36,6 +36,10 @@
             "name": "Galactic Invaders",
             "description": "Arcade style space shooter game"
         },
+        "garden": {
+            "name": "Garden Invaders",
+            "description": "Top-down 2D shooter game, defend the garden!"
+        },
          "tamaplushy": {
             "name": "TamaPlushy",
             "description": "2D Pet-Simulator Game, take care of your plushy so it doesn't lose its sanity!"
