@@ -135,7 +135,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
   \**********************************/
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n    language: [\"cc\", \"python\", \"js\", \"html\", \"css\", \"c\", \"sqlite\"],\n    framework: [\"unity\", \"pygame\", \"node\", \"react\"],\n    tool: [\"vscode\", \"github\", \"canva\"],\n});\n\n//# sourceURL=webpack://portfolio/./src/app/consts/skills.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n    language: [\"cc\", \"python\", \"js\", \"j\", \"html\", \"css\", \"c\", \"sqlite\"],\n    framework: [\"unity\", \"pygame\", \"node\", \"react\"],\n    tool: [\"vscode\", \"github\", \"canva\"],\n});\n\n\n//# sourceURL=webpack://portfolio/./src/app/consts/skills.js?\n}");
 
 /***/ },
 
