@@ -1,6 +1,8 @@
 export default {
     ts: "TypeScript",
     js: "JavaScript",
+    j: "Java",
+    pr: "Processing4",
     python: "Python",
     cc: "C++",
     c: "C#",

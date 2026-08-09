@@ -21,6 +21,15 @@ const projects = [
         hasImage: true
     },
     {
+        id: "garden",
+        techs: ["j", "pr"],
+        links: {
+            github: "serinandukaire/Garden-Invaders",
+            //live: "serinandukaire.github.io"
+        },
+        hasImage: true,
+    },
+    {
         id: "portfolio",
         techs: ["js", "sass", "webpack"],
         links: {
