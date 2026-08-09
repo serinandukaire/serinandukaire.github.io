@@ -25,7 +25,7 @@ const projects = [
         techs: ["j", "pr"],
         links: {
             github: "serinandukaire/Garden-Invaders",
-            //live: "serinandukaire.github.io"
+            live: "https://btecoreo.itch.io/garden-invaders"
         },
         hasImage: true,
     },
